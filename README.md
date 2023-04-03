@@ -1,6 +1,6 @@
 # Vending Machine for Books Using OOP
 
-	In this overview, we will describe how to design a vending machine for books using object-oriented programming (OOP) in Java. We'll focus on the main components and their interactions.
+In this overview, we will describe how to design a vending machine for books using object-oriented programming (OOP) in Java. We'll focus on the main components and their interactions.
   
 ## Design Overview
 Create a Book class to represent a book with attributes such as title, author, price, and stock. It can have methods for accessing and updating these attributes.
