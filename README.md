@@ -19,8 +19,12 @@ The VendingMachine class manages the inventory of books, user balance, and purch
 
 ## VendingMachine Class Methods
 addBook (Book book) Adds a book to the inventory.
+
 checkStock(String title) Returns the stock of a specific book.
+
 depositMoney(double amount): Adds money to user’s balance
+
 purchaseBook(String title): Purchases a book updating the stock and deducting the price from the user’s balance
+
 displayBooks(): Displays the available books in the inventory.
 
